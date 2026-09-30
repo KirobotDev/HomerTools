@@ -5,6 +5,17 @@
   Cette version est exclusivement destinée à un usage éducatif et légal. Toute utilisation malveillante est strictement interdite et fait l'objet d'une exclusion de responsabilité, conformément aux dispositions du Code pénal français relatives aux attaques contre les systèmes automatisés de traitement de données (articles 323-1 à 323-7).
 </p>
 
+<h2>📸 Preview:</h2>
+
+<p align="center">
+  <img src="Images/Capture d'écran 2026-09-30 142325.png" alt="HomerTools" width="9999">
+</p>
+
+
+
+
+
+
 
 <h2>⚙️ Installation:</h2>
 
