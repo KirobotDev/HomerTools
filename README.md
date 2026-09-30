@@ -8,7 +8,7 @@
 <h2>📸 Preview:</h2>
 
 <p align="center">
-  <img src="Capture d'écran 2026-09-30 142325.png" alt="HomerTools" width="9999">
+  <img src="image/preview.png" alt="HomerTools" width="9999">
 </p>
 
 
