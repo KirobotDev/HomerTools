@@ -8,13 +8,8 @@
 <h2>📸 Preview:</h2>
 
 <p align="center">
-  <img src="Images/Capture d'écran 2026-09-30 142325.png" alt="HomerTools" width="9999">
+  <img src="Capture d'écran 2026-09-30 142325.png" alt="HomerTools" width="9999">
 </p>
-
-
-
-
-
 
 
 <h2>⚙️ Installation:</h2>
