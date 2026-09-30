@@ -35,11 +35,12 @@
 </ol
 
 
+
 <h2>👨‍💻 Credits:</h2>
 
 <ul>
-  <li>Developed by: <b>Loxy0devlp</b></li>
-  <li>GitHub: <a href="https://github.com/w0k00000">github.com/loxy0devlp</a></li>
+  <li>Developed by: <b>w0k00 & HOMER0.1 </b></li>
+  <li>GitHub: <a href="https://github.com/w0k00000">github.com/w0k00000</a></li>
   <li>License: <b>MIT License</b></li>
   <li>Version: <b>v1.0 Beta</b></li>
 </ul>
