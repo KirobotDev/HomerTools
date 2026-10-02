@@ -26,11 +26,11 @@ def discord() -> tuple[ str, int, bool ]:
             results = resp['data']['results']
             print(results)
             core.write_add(chemin, "discord", results)
-            time.sleep(2)
+            time.sleep(20)
 
         else:
             print("Error", r.status_code)
-            time.sleep(2)
+            time.sleep(5)
 
     except (Exception, SyntaxError) as e:
         print(f"Error : {e}")
@@ -55,11 +55,11 @@ def perso() -> str:
             results = resp['data']['results']
             print(results)
             core.write_add(chemin, "perso", results)
-            time.sleep(2)
+            time.sleep(20)
 
         else:
             print("Error", r.status_code)
-            time.sleep(2)
+            time.sleep(5)
 
     except (Exception, SyntaxError) as e:
         print(f"Error : {e}")
@@ -82,11 +82,11 @@ def email() -> tuple[ str,  int ]:
             results = resp['data']['results']
             print(results)
             core.write_add(chemin, "email", results)
-            time.sleep(2)
+            time.sleep(20)
 
         else:
             print("Error", r.status_code)
-            time.sleep(2)
+            time.sleep(5)
 
     except (Exception, SyntaxError) as e:
         print(f"Error : {e}")
